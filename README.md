@@ -15,7 +15,7 @@ DockPanel面板可以让子控件在它的边上停靠，最后一个子控件�
 
 ## 使用方法
 
-需要将SeparablePanel和SeparablePanelItem结合使用。SeparablePanel继承自DockPanel，SeparablePanelItem继承自StackPanel。示例：
+将[SeparablePanel.cs](https://github.com/zou-z/SeparablePanel/blob/main/SeparablePanel/SeparablePanel.cs)添加到你的项目中即可。需要将SeparablePanel和SeparablePanelItem结合使用。SeparablePanel继承自DockPanel，SeparablePanelItem继承自StackPanel。示例：
 
 ```xml
 <wpf_control:SeparablePanel>
