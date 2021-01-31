@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparablePanel", "SeparablePanel\SeparablePanel.csproj", "{BE38B038-0CCE-4BBD-86DE-77E207340174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE38B038-0CCE-4BBD-86DE-77E207340174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE38B038-0CCE-4BBD-86DE-77E207340174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE38B038-0CCE-4BBD-86DE-77E207340174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE38B038-0CCE-4BBD-86DE-77E207340174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B729C0-B535-4FE3-AD21-781C41A00320}
+	EndGlobalSection
+EndGlobal
